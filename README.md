@@ -68,6 +68,5 @@ Whether it’s your first or fiftieth pull request, there’s always more to lea
  <li>Forking a repository</li>
   <li>Creating a pull request</li>
   </ul>
-
-![image](https://user-images.githubusercontent.com/54509629/135896686-f25b59ec-d870-40b5-90fa-8b623bc92906.png)
+<img align="center" src="https://user-images.githubusercontent.com/54509629/135896686-f25b59ec-d870-40b5-90fa-8b623bc92906.png" />
 
