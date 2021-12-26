@@ -6,7 +6,7 @@
 
 <a href="https://hacktoberfest.digitalocean.com/"><h3 align="center">Link To HacktoberFest 2021</h3></a>
 
-<h4 align="left">Event details :</h4>
+<h4 align="left">Event details:</h4>
 
 Hacktoberfest is a month-long challenge. It happens every year in the month of October.
 Hacktoberfest is open to everyone and it marks the celebration of Open Source. 
@@ -70,3 +70,4 @@ Whether it’s your first or fiftieth pull request, there’s always more to lea
   </ul>
 <img align="center" src="https://user-images.githubusercontent.com/54509629/135896686-f25b59ec-d870-40b5-90fa-8b623bc92906.png" />
 
+@Author : Saurabh Kumar
