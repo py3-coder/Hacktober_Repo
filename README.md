@@ -1,8 +1,8 @@
-<h1 align="center">Hacktoberfest 2021</h1>
+<h1 align="center">Hacktoberfest 2022</h1>
 
-![image](https://user-images.githubusercontent.com/54509629/135883830-a6d26d4a-5370-4ed3-9f32-7bc84e4b6354.png)
+![image](https://user-images.githubusercontent.com/54509629/192240289-fa81c2f0-16df-40a4-8542-5a2bed2b0348.png)
 
-<h2 align="center">Hacktoberfest_2021</h2>
+<h2 align="center">Hacktoberfest_2022</h2>
 
 <a href="https://hacktoberfest.digitalocean.com/"><h3 align="center">Link To HacktoberFest 2021</h3></a>
 
