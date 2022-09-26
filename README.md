@@ -4,7 +4,7 @@
 
 <h2 align="center">Hacktoberfest_2022</h2>
 
-<a href="https://hacktoberfest.digitalocean.com/"><h3 align="center">Link To HacktoberFest 2021</h3></a>
+<a href="https://hacktoberfest.com/participation/"><h3 align="center">Link To HacktoberFest 2021</h3></a>
 
 <h4 align="left">Event details:</h4>
 
