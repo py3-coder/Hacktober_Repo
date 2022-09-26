@@ -1,6 +1,7 @@
 <h1 align="center">Hacktoberfest 2022</h1>
 
-![image](https://user-images.githubusercontent.com/54509629/192240289-fa81c2f0-16df-40a4-8542-5a2bed2b0348.png)
+![image](https://user-images.githubusercontent.com/54509629/192244436-a407b269-a685-487e-8020-046132656b0e.png)
+
 
 <h2 align="center">Hacktoberfest_2022</h2>
 
@@ -22,15 +23,16 @@ Hacktoberfest is a celebration open to everyone in our global community.
 <h3 align="center"><u>[ HacktoberFest Rules ]</u></h3>
 
 <ol>
-<li> To earn your Hacktoberfest tee or tree reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone).</li>
+<li>Register anytime between September 26 and October 31</li>
 
-<li> Pull requests can be made in any participating GitHub or GitLab hosted repository/project. Look for the hacktoberfest topic to know if a repository/project is participating in Hacktoberfest.</li>
+<li>Pull requests can be made in any GITHUB or GITLAB hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)</li>
 
-<li> Pull requests must be approved by a maintainer of the repository/project to count.</li>
+<li>Project maintainers must accept your pull/merge requests for them to count toward your total</li>
 
-<li> If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.</li>
+<li>Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest</li>
 
-<li> This year, the first 55,000 participants who successfully complete the challenge will be eligible to receive a prize.</li>
+<li>The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.</li>
+ 
 </ol>
 
 <h3 align="center">__For your PR to count it must be__</h3>
@@ -65,9 +67,10 @@ Whether it’s your first or fiftieth pull request, there’s always more to lea
 <ul>
   <li>Git</li>
   <li>GitHub</li>
- <li>Forking a repository</li>
+  <li>Forking a repository</li>
   <li>Creating a pull request</li>
-  </ul>
-<img align="center" src="https://user-images.githubusercontent.com/54509629/135896686-f25b59ec-d870-40b5-90fa-8b623bc92906.png" />
+</ul>
+
+![image](https://user-images.githubusercontent.com/54509629/192245072-cf710b48-ee99-47b2-8446-e45d21f25c60.png)
 
 ## @Author : Saurabh Kumar
